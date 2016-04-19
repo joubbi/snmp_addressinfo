@@ -1,0 +1,1 @@
+A script for getting IP addresses from different Cisco devices with SNMP.
