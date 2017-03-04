@@ -2,7 +2,7 @@
 ###############################################################################
 #                                                                             #
 # A script for getting IP addresses from different Cisco devices with SNMP    #
-# Written by Farid Joubbi @consign.se 2014-05-19                              #
+# Written by farid@joubbi.se 2014-05-19                                       #
 #                                                                             #
 # USAGE:                                                                      #
 # Add as a check in Op5/Nagios                                                #
